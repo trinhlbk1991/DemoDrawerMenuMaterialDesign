@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoMaterialDesignDrawerMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Drawer Menu items -->
+    <string-array name="nav_drawer_items">
+        <item>Bike</item>
+        <item>Bus</item>
+        <item>Car</item>
+        <item>Ferry</item>
+        <item>Subway</item>
+        <item>Train</item>
+    </string-array>
+
+    <!-- Sliding Menu item icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_directions_bike_black_36dp</item>
+        <item>@drawable/ic_directions_bus_black_36dp</item>
+        <item>@drawable/ic_directions_car_black_36dp</item>
+        <item>@drawable/ic_directions_ferry_black_36dp</item>
+        <item>@drawable/ic_directions_subway_black_36dp</item>
+        <item>@drawable/ic_directions_train_black_36dp</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
